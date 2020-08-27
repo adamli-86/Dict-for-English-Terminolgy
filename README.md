@@ -1,13 +1,10 @@
+# 符号（sign/mark）
 
-# 符号 /signs 
+
+### 1.编程符号 (programme signs)
 ---
 
-**常用符号的中英文翻译**
-
-### 1.编程符号 /programme sign
----
-
- **常用编程符号**
+ **常用**
 + **\***  ：       star / asterisk 星号
 + **%**  ：       percent sign 百分比符
 + **^**  ：       caret  补字符号
@@ -19,11 +16,11 @@
 + **#**  ：       pound / hash  井字符
 + **/**  ：        slash（virgule / diagonal mark）  斜杠
 + **\\**  ：        back slash  反斜杠
-+ **--**  hyphen  连字符
++ **--**  ：     hyphen  连字符
 + **！**  ：      exclamation mark 惊叹号
 + **？**  ：      question mark 问号
 + **' **  ：      apostrophe 所有格符号，单词内部的省略
-+ **———**  ：      dash 破折号
++ **——**  ：      dash 破折号
 + **_**  ：      underscore 下划线
 + **‘**  ：      前引号 opening  quote
 + **’**  ：      后引号 closing  quote
@@ -60,18 +57,18 @@
 + **→**  ：      arrow 箭号；参见号
 + **...**  ：      ellipsis 省略号
 + **··**  ：      tandem colon 双点号
-+ **" **  ：      ditto 同上
-+ **‖  **  ：      parallel 双线号
++ **"**  ：      ditto 同上符号
++ **‖**  ：      parallel 双线号
 + **～**  ：      tilde / swung dash 代字号
-+ **§ **  ：       section; division 分节号
++ **§**  ：       section; division 分节号
 + **《》**  ：      French quotes 法文引号/书名号
 
 
 ---
 
 
-### 2.部分数学符号的英文名称
-
+### 2.数学符号(Maths Sign)
+---
 **常用**
 + **＋**  ：      plus 加号；正号
 + **－**  ：      minus 减号；负号
@@ -112,15 +109,16 @@
 + **△**  ：      triangle 三角形
 + **⊥**  ：      perpendicular to 垂直于
 + **∫**  ：      the integral of …的积分
-+ **∑**  ：      (sigma) summation of 总和
- 
+- **∑**  ：      (sigma) summation of 总和
 
- **`参考`**
 
+
+```
+**参考**
+
+[金山词霸](https://www.iciba.com/) 
 [阮一峰博客文章（常见符号的英文名称）](http://www.ruanyifeng.com/blog/2007/07/english_punctuation.html) 
-
 [腾讯大学（特殊符号大全）](https://cloud.tencent.com/developer/article/1654008)
-
-[Csdn：Python转义字符](https://blog.csdn.net/gezailushang/article/details/84178853)
-
-[什么是转义字符](https://blog.csdn.net/qq_26686565/article/details/79629710]
+[CSDN：Python转义字符](https://blog.csdn.net/gezailushang/article/details/84178853)
+[CSDN:Python3.6.5 笔记：字符串中的转义字符](https://blog.csdn.net/qq_26686565/article/details/79629710)
+```
