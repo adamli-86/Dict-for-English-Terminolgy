@@ -1,10 +1,14 @@
-# 符号（sign/mark）
+
+# 符号 /signs 
 ---
+
+**常用符号的中英文翻译**
+
 ### 1.编程符号 /programme sign
 ---
 
- **`常用`**
-+ *****  ：       star / asterisk 星号
+ **常用编程符号**
++ **\***  ：       star / asterisk 星号
 + **%**  ：       percent sign 百分比符
 + **^**  ：       caret  补字符号
 + **$**  ：       dollor mark 美元符号 
@@ -19,13 +23,13 @@
 + **！**  ：      exclamation mark 惊叹号
 + **？**  ：      question mark 问号
 + **' **  ：      apostrophe 所有格符号，单词内部的省略
-+ **  ：      **  ：      dash 破折号
++ **———**  ：      dash 破折号
 + **_**  ：      underscore 下划线
 + **‘**  ：      前引号 opening  quote
 + **’**  ：      后引号 closing  quote
 
 
-+ **`正则符/转义字符等`**
+ **正则符/转义字符**
 + **d :** digital 数字
 + **D :** not digital 非数字
 + **| :** vertical bar  竖线（或）
@@ -49,7 +53,7 @@
 
  
 
- **`不常用`**
+ **不常用**
 
 + **、**  ：      顿号 slight-pause mark
 + **\`**  ：      反引号 backtick quotes（markdown语法）
@@ -63,9 +67,12 @@
 + **《》**  ：      French quotes 法文引号/书名号
 
 
+---
+
 
 ### 2.部分数学符号的英文名称
-+ **`常用`**
+
+**常用**
 + **＋**  ：      plus 加号；正号
 + **－**  ：      minus 减号；负号
 + **±**  ：      plus / minus 正负号
@@ -87,7 +94,7 @@
 + **″**  ：      second 秒
 + **＠**  ：      at 在
 
-+ **`不常用`**
+**不常用**
 + **≯**  ：      is not more than 不大于号
 + **≤**  ：      is less than or equal to 小于或等于号
 + **≥**  ：      is more than or equal to 大于或等于号
