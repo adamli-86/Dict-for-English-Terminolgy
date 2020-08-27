@@ -1,7 +1,6 @@
-# 符号（sign/mark）
 
 
-### 1.编程符号 (programme signs)
+##编程符号 (programme signs)
 ---
 
  **常用**
@@ -67,58 +66,14 @@
 ---
 
 
-### 2.数学符号(Maths Sign)
----
-**常用**
-+ **＋**  ：      plus 加号；正号
-+ **－**  ：      minus 减号；负号
-+ **±**  ：      plus / minus 正负号
-+ **×**  ：      is multiplied by 乘号
-+ **÷(/)**  ：      is divided by 除号
-+ **√**-square root 平方根
-+ **%**  ：      mod 取模
-+ **＝**  ：      is equal to 等于号
-+ **≠(!=)**  ：      is not equal to 不等于号
-+ **≡**  ：      is equivalent to 全等于号
-+ **≌**  ：      is equal to / approximately equal to 等于或约等于号
-+ **≈**  ：      is approximately equal to 约等于号
-+ **＜**  ：      less than sign 小于号
-+ **＞**  ：      more than / greater than sign 大于号
-+ **∪**  ：      union of 并，合集
-+ **∩**  ：      intersection of 交，通集
-+ **°**  ：      degree 度
-+ **′**  ：      minute 分
-+ **″**  ：      second 秒
-+ **＠**  ：      at 在
-
-**不常用**
-+ **≯**  ：      is not more than 不大于号
-+ **≤**  ：      is less than or equal to 小于或等于号
-+ **≥**  ：      is more than or equal to 大于或等于号
-+ **％**  ：       per cent 百分之…
-+ **‰**  ：      per mill 千分之…
-+ **∞**  ：      infinity 无限大号
-+ **∝**  ：      varies as 与…成比例
-+ **∵**  ：      since; because 因为
-+ **∴**  ：      hence 所以
-+ **∷**  ：      equals, as (proportion) 等于，成比例
-+ **∠**  ：      angle 角
-+ **⌒**  ：      semicircle 半圆
-+ **⊙**  ：      circle 圆
-+ **○**  ：      circumference 圆周
-+ **△**  ：      triangle 三角形
-+ **⊥**  ：      perpendicular to 垂直于
-+ **∫**  ：      the integral of …的积分
-- **∑**  ：      (sigma) summation of 总和
 
 
 
-```
 **参考**
 
-[金山词霸](https://www.iciba.com/) 
-[阮一峰博客文章（常见符号的英文名称）](http://www.ruanyifeng.com/blog/2007/07/english_punctuation.html) 
-[腾讯大学（特殊符号大全）](https://cloud.tencent.com/developer/article/1654008)
-[CSDN：Python转义字符](https://blog.csdn.net/gezailushang/article/details/84178853)
-[CSDN:Python3.6.5 笔记：字符串中的转义字符](https://blog.csdn.net/qq_26686565/article/details/79629710)
-```
+- [金山词霸](https://www.iciba.com/) 
+- [阮一峰博客文章（常见符号的英文名称）](http://www.ruanyifeng.com/blog/2007/07/english_punctuation.html) 
+- [腾讯大学（特殊符号大全）](https://cloud.tencent.com/developer/article/1654008)
+- [CSDN：Python转义字符](https://blog.csdn.net/gezailushang/article/details/84178853) 
+- [CSDN:Python3.6.5 笔记：字符串中的转义字符](https://blog.csdn.net/qq_26686565/article/details/79629710)
+
